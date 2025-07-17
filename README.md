@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=css,github,gmail,html,linkedin,pycharm,py,visualstudio,vscode,windows&perline=31)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,github,gmail,html,linkedin,discord,pycharm,py,visualstudio,vscode,windows&perline=31)](https://skillicons.dev)
